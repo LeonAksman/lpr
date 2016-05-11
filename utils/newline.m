@@ -1,0 +1,3 @@
+function newline()
+
+fprintf('\n');
