@@ -57,7 +57,7 @@ making it easier to step through the code in debugger.
 POTENTIAL PROBLEMS
 
 This code was developed in Linux using MATLAB R2013b. 
-It may have dependencies on some MathWorks toolboxes. T
+It may have dependencies on some MathWorks toolboxes.
 Those dependencies are not strictly necessary. If they pose a problem for you, please contact me.
 
 
