@@ -24,7 +24,6 @@ The code is designed to be simple to understand and use.
 There are several well-commented demos that can be run (in the demo_analysis folder) on the data that has been provided 
 (in the demo_data folder). 
 
-
 Download and install the code locally, then in MATLAB run:
 
 >> demo_crossSectional() 
@@ -58,12 +57,14 @@ making it easier to step through the code in debugger.
 POTENTIAL PROBLEMS
 
 This code was developed in Linux using MATLAB R2013b. 
-It may have dependencies on some MathWorks toolboxes.
-Those dependencies are not strictly necessary. If they pose a problem for you, please contact me.
+It may have dependencies on some MathWorks toolboxes, which may not be strictly necessary. 
+If they pose a problem for you, please contact me.
+
 
 LICENSE
 
 This toolbox is licensed under GPLv3. Please see the LICENSE.txt file included.
+
 
 CONTACT
 
