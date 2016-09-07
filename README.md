@@ -14,7 +14,7 @@ http://www.mlnl.cs.ucl.ac.uk/pronto/
 This code also uses:
 
 - NIFTI toolbox (http://uk.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
-- LIBVM library (https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+- LIBSVM library (https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 - GPML toolbox  (http://www.gaussianprocess.org/gpml/code/matlab/doc/)
 
 If you use this code, please cite:
@@ -51,7 +51,7 @@ or
 
 to try long follow-ups or short follow-ups between subjects' samples.
 
-You can also run each of these function by passing 'debug' as the single parameter.
+You can also run each of these functions by passing 'debug' as the single parameter.
 For example:
 
 >> demo_ltcpca('debug')
