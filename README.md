@@ -39,26 +39,22 @@ This will run a cross-sectional style analysis using the data in demo_data
 Then you can run different version of our proposed method.
 To run the most general version (LTC-PCA), run:
 
-```>> demo_ltcpca()
-```
+>> demo_ltcpca()
 
 To run unbalanced LM-PCA on the same data, run:
 
-```>> demo_lmpca_long()
-```
+>> demo_lmpca_long()
 
 or
 
-```>> demo_lmpca_short()
-```
+>> demo_lmpca_short()
 
 to try long follow-ups or short follow-ups between subjects' samples.
 
 You can also run each of these functions by passing 'debug' as the single parameter.
 For example:
 
-```>> demo_ltcpca('debug')
-```
+>> demo_ltcpca('debug')
 
 which will not perform nested cross-validation via parfor, 
 making it easier to step through the code in debugger.
