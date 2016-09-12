@@ -32,8 +32,7 @@ There are several well-commented demos that can be run (in the demo_analysis fol
 
 Download and install the code locally, then in MATLAB run:
 
-```>> demo_crossSectional() 
-```
+>> demo_crossSectional() 
 
 This will run a cross-sectional style analysis using the data in demo_data
 
