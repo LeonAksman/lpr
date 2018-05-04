@@ -7,8 +7,8 @@ feature construction method that combined longitudinal and cross-sectional struc
 As a result, the code is intended to work with neuroimaging data, though in principle any data can be used, with minor modifications. 
 
 This is not a complete neuroimage-based pattern recognition toolbox. 
-I recommend the PRoNTo toolbox for that:
-http://www.mlnl.cs.ucl.ac.uk/pronto/
+I recommend the [PRoNTo](http://www.mlnl.cs.ucl.ac.uk/pronto/) toolbox for that.
+
 
 
 This code also uses:
