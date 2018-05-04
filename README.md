@@ -13,9 +13,9 @@ http://www.mlnl.cs.ucl.ac.uk/pronto/
 
 This code also uses:
 
-- NIFTI toolbox (http://uk.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
-- LIBSVM library (https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-- GPML toolbox  (http://www.gaussianprocess.org/gpml/code/matlab/doc/)
+- [NIFTI toolbox](http://uk.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
+- [LIBSVM library](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+- [GPML toolbox](http://www.gaussianprocess.org/gpml/code/matlab/doc/)
 
 If you use this code, please cite:
 
@@ -77,4 +77,4 @@ CONTACT
 Please email me with questions, suggestions or improvements.
 
 Leon Aksman
-leon.aksman@kcl.ac.uk
+l.aksman@ucl.ac.uk
