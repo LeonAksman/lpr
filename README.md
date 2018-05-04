@@ -17,11 +17,9 @@ This code also uses:
 - [LIBSVM library](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 - [GPML toolbox](http://www.gaussianprocess.org/gpml/code/matlab/doc/)
 
-If you use this code, please cite:
+If you use this code, please cite [our paper](https://doi.org/10.1002/hbm.23317):
 
-Aksman, L.M., Lythgoe, D.J., Williams, S.C.R., Jokisch, M., Mönninghoff, C., Streffer, J., Jöckel, K.-H., Weimar, C., Marquand, A.F., 2016. Making use of longitudinal information in pattern recognition. Hum. Brain Mapp. n/a-n/a. doi:10.1002/hbm.23317
-
-
+Aksman, L.M., Lythgoe, D.J., Williams, S.C.R., Jokisch, M., Mönninghoff, C., Streffer, J., Jöckel, K.-H., Weimar, C., Marquand, A.F., 2016. Making use of longitudinal information in pattern recognition. Hum. Brain Mapp. 37, 4385–4404. https://doi.org/10.1002/hbm.23317
 
 
 GETTING STARTED 
