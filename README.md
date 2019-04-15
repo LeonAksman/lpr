@@ -6,12 +6,9 @@ This MATLAB toolbox has been developed as part of my PhD work, which focussed on
 feature construction method that combined longitudinal and cross-sectional structural neuroimaging data. 
 As a result, the code is intended to work with neuroimaging data, though in principle any data can be used, with minor modifications. 
 
-This is not a complete neuroimage-based pattern recognition toolbox. 
-I recommend the [PRoNTo](http://www.mlnl.cs.ucl.ac.uk/pronto/) toolbox for that.
+This is intended to be a programmatic toolbox for classification using both cross-sectional and longitudinal information. I recommend the [PRoNTo](http://www.mlnl.cs.ucl.ac.uk/pronto/) toolbox for if you are looking for a GUI based toolbox that is focussed on pattern recognition using cross-sectional neuroimaging information. 
 
-
-
-This code also uses:
+This code relies on:
 
 - [NIFTI toolbox](http://uk.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
 - [LIBSVM library](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
